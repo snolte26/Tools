@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/general/fileManipulation/Pseudo_Virus_Creator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/general/fileManipulation/Pseudo_Virus_Creator/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/general/internet/internetChecker/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/general/internet/IsItUp/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/general/movingStuff/usbFileExtractor/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/general/movingStuff/usbFileExtractor/build" />
+      <excludeFolder url="file://$MODULE_DIR$/general/movingStuff/usbFileExtractor/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/general/movingStuff/usbFileExtractor/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/general/movingStuff/source/.idea" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.9 (Tools)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
