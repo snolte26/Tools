@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Tools.iml" filepath="$PROJECT_DIR$/.idea/Tools.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/minecraftMusicSim/.idea/minecraftMusicSim.iml" filepath="$USER_HOME$/PycharmProjects/minecraftMusicSim/.idea/minecraftMusicSim.iml" />
     </modules>
   </component>
 </project>

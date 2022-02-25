@@ -9,17 +9,18 @@ def main():
     secs = int(input("How many seconds on top of minutes: "))
     sleepTime = mins + secs
 
+    x, y = pyautogui.size()
+
     while True:
         os.system('cls')
-        x, y = pyautogui.position()
 
         for _ in tqdm(range(sleepTime)):
             sleeper(1)
-        pyautogui.moveTo(x + 150, y + 150, duration=.5)
+        pyautogui.moveTo(x/2, y/2, duration=.5)
 
         for _ in tqdm(range(sleepTime)):
             sleeper(1)
-        pyautogui.moveTo(x - 150, y - 150, duration=.5)
+        pyautogui.moveTo(x/3, y/3, duration=.5)
 
 
 if __name__ == '__main__':
